@@ -1,0 +1,25 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-dat19/24-01
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=151b3f3d47708eb12491bfb82be14507c1e670e93aba65c0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=151b3f3d47708eb12491bfb82be14507c1e670e93aba65c0&token=151b3f3d47708eb12491bfb82be14507c1e670e93aba65c0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b1e5364e-6d79-4345-958d-d125de96bcce
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b1e5364e-6d79-4345-958d-d125de96bcce
+[NotebookApp | INFO] Saving file at /input-output.ipynb
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /input-output.ipynb
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for b1e5364e-6d79-4345-958d-d125de96bcce:3f598e7d1368452ab62ac80d12dd58eb
+[NotebookApp | INFO] Kernel started: 8ed9aedf-02ad-4add-b2b5-3ad3fb3ffa77
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ed9aedf-02ad-4add-b2b5-3ad3fb3ffa77
+[NotebookApp | INFO] Saving file at /intro-variables.ipynb
+[NotebookApp | INFO] Starting buffering for 8ed9aedf-02ad-4add-b2b5-3ad3fb3ffa77:ff7bde712fa64a2990b61d0b29173ca1
