@@ -1,0 +1,23 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-dat19/31-01
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e915ca98f49ce7f3f33bd38fb037f235ae272bd580c344ef
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e915ca98f49ce7f3f33bd38fb037f235ae272bd580c344ef&token=e915ca98f49ce7f3f33bd38fb037f235ae272bd580c344ef
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 304021d8-4188-477a-bb91-6ebbe102cfde
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 304021d8-4188-477a-bb91-6ebbe102cfde
+[NotebookApp | INFO] Starting buffering for 304021d8-4188-477a-bb91-6ebbe102cfde:fe7863f4ab03418d82cda2db48873d44
+[NotebookApp | INFO] Kernel started: 6b1dc587-234e-4791-b9b9-95d8ddecd229
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6b1dc587-234e-4791-b9b9-95d8ddecd229
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Starting buffering for 6b1dc587-234e-4791-b9b9-95d8ddecd229:0cb3d9bd16544f69840b0cb1ac6c4ef2
+[NotebookApp | INFO] Saving file at /README.md
