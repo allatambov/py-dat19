@@ -1,0 +1,27 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-dat19/14-02
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=d03a961608cf894bc0f8d95dff414443c377ad97ab285b67
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=d03a961608cf894bc0f8d95dff414443c377ad97ab285b67&token=d03a961608cf894bc0f8d95dff414443c377ad97ab285b67
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: d573d131-6686-4509-a2d6-39ea77993834
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d573d131-6686-4509-a2d6-39ea77993834
+[NotebookApp | INFO] Saving file at /practice-1.ipynb
+[NotebookApp | INFO] Starting buffering for d573d131-6686-4509-a2d6-39ea77993834:3c9539fd43034045b63e41f924fec0c9
+[NotebookApp | INFO] Kernel started: ee5773df-84e4-401d-87b3-17beb5df8312
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee5773df-84e4-401d-87b3-17beb5df8312
+[NotebookApp | INFO] Uploading file to /practice2-solutions.ipynb
+[NotebookApp | INFO] Kernel started: a8c66f81-075d-49a5-b087-67cd2e2c8ef3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a8c66f81-075d-49a5-b087-67cd2e2c8ef3
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Saving file at /practice1-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for ee5773df-84e4-401d-87b3-17beb5df8312:bb788b3246784546ad290bfc08d91851
+[NotebookApp | INFO] Starting buffering for a8c66f81-075d-49a5-b087-67cd2e2c8ef3:7526496ccfb84cd9889ef12b6f5f6260
