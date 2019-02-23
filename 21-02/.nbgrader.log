@@ -1,0 +1,27 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-dat19/21-02
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=c202365a79dd8f937141dd69008447d4d3746d3a7c9efdfb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=c202365a79dd8f937141dd69008447d4d3746d3a7c9efdfb&token=c202365a79dd8f937141dd69008447d4d3746d3a7c9efdfb
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook sets.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2cf8ed48-904e-4eba-8ffd-03f348842bb6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2cf8ed48-904e-4eba-8ffd-03f348842bb6
+[NotebookApp | INFO] Saving file at /sets.ipynb
+[NotebookApp | WARNING] Notebook sets.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /sets.ipynb
+[NotebookApp | WARNING] Notebook sets.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 2cf8ed48-904e-4eba-8ffd-03f348842bb6:9d63601af02946ec992a57cd81bc5257
+[NotebookApp | INFO] Kernel restarted: 2cf8ed48-904e-4eba-8ffd-03f348842bb6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2cf8ed48-904e-4eba-8ffd-03f348842bb6
+[NotebookApp | INFO] Restoring connection for 2cf8ed48-904e-4eba-8ffd-03f348842bb6:9d63601af02946ec992a57cd81bc5257
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /sets.ipynb
+[NotebookApp | INFO] Starting buffering for 2cf8ed48-904e-4eba-8ffd-03f348842bb6:9d63601af02946ec992a57cd81bc5257
