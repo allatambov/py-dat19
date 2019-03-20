@@ -1,0 +1,93 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/py-dat19/07-03
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fa61b8296f3bd1f041214c653dcea3a21a61bc1a1d6993d5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fa61b8296f3bd1f041214c653dcea3a21a61bc1a1d6993d5&token=fa61b8296f3bd1f041214c653dcea3a21a61bc1a1d6993d5
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: ae11cd45-d7fc-440d-a8d2-b26d5067b6d1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae11cd45-d7fc-440d-a8d2-b26d5067b6d1
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae11cd45-d7fc-440d-a8d2-b26d5067b6d1
+[NotebookApp | INFO] Uploading file to /base_pandas.ipynb
+[NotebookApp | WARNING] Notebook base_pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f147709d-4287-4d8d-9a27-a6984fae5fe5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f147709d-4287-4d8d-9a27-a6984fae5fe5
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for ae11cd45-d7fc-440d-a8d2-b26d5067b6d1:437da58b82c642ebbd9df14d1ecf6408
+[NotebookApp | INFO] Kernel restarted: ae11cd45-d7fc-440d-a8d2-b26d5067b6d1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae11cd45-d7fc-440d-a8d2-b26d5067b6d1
+[NotebookApp | INFO] Restoring connection for ae11cd45-d7fc-440d-a8d2-b26d5067b6d1:437da58b82c642ebbd9df14d1ecf6408
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /intro_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for ae11cd45-d7fc-440d-a8d2-b26d5067b6d1:437da58b82c642ebbd9df14d1ecf6408
+[NotebookApp | INFO] Starting buffering for f147709d-4287-4d8d-9a27-a6984fae5fe5:5c51ba1610234ec3851e3a8b4bef11d9
+[NotebookApp | INFO] Kernel shutdown: f147709d-4287-4d8d-9a27-a6984fae5fe5
+[NotebookApp | WARNING] delete /base_pandas.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: c4bd14fe-ae91-4f3c-bcb4-487079732618
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c4bd14fe-ae91-4f3c-bcb4-487079732618
+[NotebookApp | INFO] Uploading file to /Урок 3.5 – Характеристики массива.ipynb
+[NotebookApp | WARNING] Notebook Урок 3.5 – Характеристики массива.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9b1138e0-0d4b-40d5-9cb3-056b27000e5f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9b1138e0-0d4b-40d5-9cb3-056b27000e5f
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 9b1138e0-0d4b-40d5-9cb3-056b27000e5f:645c1948ee0242788c46bc52386d7aa3
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Uploading file to /Урок 3.7 – Создание массивов.ipynb
+[NotebookApp | WARNING] Notebook Урок 3.7 – Создание массивов.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Урок 3.7 – Создание массивов.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 76442bdc-e207-40b3-a1b0-520715d94844
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76442bdc-e207-40b3-a1b0-520715d94844
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 76442bdc-e207-40b3-a1b0-520715d94844:6ba11f6815cf42f7a82a6b4747e572db
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9b1138e0-0d4b-40d5-9cb3-056b27000e5f
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 9b1138e0-0d4b-40d5-9cb3-056b27000e5f:8361dc3233824a0598d5df1805eae3aa
+[NotebookApp | WARNING] Notebook Урок 3.7 – Создание массивов.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76442bdc-e207-40b3-a1b0-520715d94844
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Starting buffering for c4bd14fe-ae91-4f3c-bcb4-487079732618:9aba1d04152b42f5918dd8de38384c2e
+[NotebookApp | INFO] Kernel restarted: c4bd14fe-ae91-4f3c-bcb4-487079732618
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c4bd14fe-ae91-4f3c-bcb4-487079732618
+[NotebookApp | INFO] Restoring connection for c4bd14fe-ae91-4f3c-bcb4-487079732618:9aba1d04152b42f5918dd8de38384c2e
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Starting buffering for 76442bdc-e207-40b3-a1b0-520715d94844:97a10be316fc49bc8999a86ffed33c0c
+[NotebookApp | INFO] Uploading file to /Урок 4.1 – изменение размерности списков.ipynb
+[NotebookApp | WARNING] Notebook Урок 4.1 – изменение размерности списков.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 337ef257-a990-417d-aa33-3018f15870eb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 337ef257-a990-417d-aa33-3018f15870eb
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Starting buffering for 337ef257-a990-417d-aa33-3018f15870eb:279bb475e9ec41778133dab6f1a41504
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Saving file at /numpy-2.ipynb
+[NotebookApp | INFO] Starting buffering for c4bd14fe-ae91-4f3c-bcb4-487079732618:9aba1d04152b42f5918dd8de38384c2e
