@@ -1,0 +1,21 @@
+def GetNews(url0):
+    """
+    Returns a tuple with url0, date, author, description, title, final_text, rubrics, diff.
+    Parameters:
+    
+    url0 is a link to the news (string)
+    """
+    page0 = requests.get(url0)
+    soup0 = BeautifulSoup(page0.text, 'lxml')
+    author = soup0.find_all('meta', {'name' : 'author'})[0].attrs['content']
+    date = soup0.find_all('meta', {'itemprop' : 'datePublished'})[0].attrs['content']
+    title = soup0.find_all('meta', {'property' : 'og:title'})[0].attrs['content']
+    description = soup0.find_all('meta', {'name' : 'description'})[0].attrs['content']
+    rubrics = [r.text for r in soup0.find_all('p')[0].find_all('a')]
+    diff = soup0.find_all('span', {'class' : 'difficult-value'})[0].text
+    text_list = soup0.find_all('p', {'class' : None})
+    text = [t.text for t in text_list]
+    final_text = ' '.join(text)
+    final_text = final_text.replace('\n', ' ')
+    
+    return url0, date, author, description, title, final_text, rubrics, diff
