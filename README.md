@@ -9,4 +9,4 @@
 * материалы занятий (папки названы по датам)
 * инструкция по работе в Jupyter Notebook
 
-https://raw.githubusercontent.com/allatambov/R-programming-3/master/lectures/lect7-12-01/47130-8314.csv
+https://sites.google.com/a/chromium.org/chromedriver/downloads
