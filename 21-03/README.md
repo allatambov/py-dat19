@@ -1,7 +1,7 @@
 # 21 марта
 
-* lect-html: вводная лекция по html
-* web-scrape: веб-скреппинг с requests и BeautifulSoup
+* [lect-html](https://nbviewer.jupyter.org/github/allatambov/py-dat19/blob/master/21-03/lect-html.ipynb): вводная лекция по html
+* [web-scrape](https://nbviewer.jupyter.org/github/allatambov/py-dat19/blob/master/21-03/web-scrape.ipynb): веб-скреппинг с requests и BeautifulSoup
 
 Дополнительно:
 
