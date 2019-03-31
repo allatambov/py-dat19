@@ -1,9 +1,8 @@
 # 28 марта
 
-* html-sem-solutions: семинар по html с решениями
-* lect-selenium-1: вводная лекция по Selenium
-* lect-selenium-2: библиотека Selenium - продолжение
-* selenium-books: ещё Selenium
+* [lect-selenium-1](https://nbviewer.jupyter.org/github/allatambov/py-dat19/blob/master/28-03/lect-selenium-1.ipynb): вводная лекция по Selenium
+* [lect-selenium-2](https://nbviewer.jupyter.org/github/allatambov/py-dat19/blob/master/28-03/lect-selenium-2.ipynb): библиотека Selenium - продолжение
+* [selenium-books](https://nbviewer.jupyter.org/github/allatambov/py-dat19/blob/master/28-03/selenium-books.ipynb): ещё Selenium
 
 Дополнительно:
 
