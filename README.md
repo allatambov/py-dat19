@@ -10,3 +10,7 @@
 * инструкция по работе в Jupyter Notebook
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+API 
+
+http://math-info.hse.ru/f/2018-19/py-polit/vk-auth.pdf
